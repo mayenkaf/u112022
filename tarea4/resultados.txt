@@ -1,0 +1,9 @@
+Carlos|18|carlos@domain.com|50
+Pierre|24|pierre@dominio.com|100
+Maria|45|maria@dominio.com|90
+Oscar|34|oscar@dominio.com|120
+Tedy|15|tedy@dominio.com|30
+Rosa|29|rosa@dominio.com|40
+Fernando|55|fernando@dominio.com|200
+Yediz|19|yediz@dominio.com|30
+Hugo|20|hugo@dominio.com|50
