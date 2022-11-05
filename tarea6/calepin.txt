@@ -1,0 +1,3 @@
+David | Martin | 3, calle de lilas | 64600 | Anglet
+Etchebarne | Ana | 4, calle del BAB | 64100 | Bayonne
+Chirac | Joselyne | 125 avenida Paul Bert | 64200 | Biarritz
