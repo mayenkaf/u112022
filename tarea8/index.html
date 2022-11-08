@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Produccion automatica de imagenes</title>
+    </head>
+    <body>
+        <div>
+            <h2>Atributos de la imagen a crear:</h2>
+        </div>
+        <div>
+            <form action="crearImagen.php" method="post">
+                <label>Altura</label><input type="text" name="altura" value="200"/><br>
+                <label>Anchura</label><input type="text" name="anchura" value="100"/><br>
+                <label>Color Fondo</label>
+                <select name="colorFondo">
+                    <option>Rojo</option>
+                    <option>Verde</option>
+                </select><br>
+                <label>Color de Caracteres</label>
+                <select name="colorCaracter">
+                    <option>Negro</option>
+                    <option>Blanco</option>
+                </select><br>
+                <label>Texto insertar</label><input type="text" name="textoInsertar" value="Prueba"/><br>
+                <button type="submit">Crear</button>
+            </form>
+            
+        </div>
+        <br>
+        <div>
+            <h2>Bolsa de valores</h2>
+        </div>
+        <div>
+            <IMG SRC=histograma.php>Bolsa de valores</IMG>
+        </div>
+        
+    </body>
+</html>
